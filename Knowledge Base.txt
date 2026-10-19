@@ -1,0 +1,216 @@
+================================================================================
+ DR-X-LOL STORE — Customer Support Knowledge Base
+================================================================================
+
+## STORE
+- Name:         DR-X-LOL Store
+- Support:      @DR_X_LOL (Telegram)
+- Community:    @DOCTOR_X_LOL
+- Deals:        @Deals_XLOL
+- Payments:     @PAY_XLOL
+- YouTube:      @DR-X-LOL
+- Since:        2020
+- Owner:        X-LOL — security researcher
+- Delivery:     Digital only, via Telegram
+- Response:     Usually within minutes
+
+## PAYMENT
+- Crypto only: USDT (TRC20/ERC20), BTC, ETH
+- No cards, no PayPal, no bank transfers
+- One-time payments only — no subscriptions, no installments
+- Send crypto to @PAY_XLOL after confirming order with @DR_X_LOL
+- Refund policy: ALL SALES FINAL
+
+## DELIVERY
+- Usually within minutes of confirmed payment
+- Sent via Telegram (file + license key, or private channel invite)
+- Custom builds may take longer — timeline confirmed before payment
+
+## DISCOUNTS
+- Bundle 2+ products: message @DR_X_LOL before paying for a bundle price
+- DOCTOR RAT subscribers: DOCTOR VNC + Synapse Tool FREE
+- DNA Crypter Pro buyers: DNA Dropper Builder FREE
+
+================================================================================
+ ## PRODUCTS (pricing catalog)
+================================================================================
+
+### DNA Crypter Pro v2.0 — $20 (one-time) (https://drxlol.rf.gd/DNA-Crypter.html)
+Software protection and EXE packer for Windows 10/11 (64-bit).
+- AES-256-GCM + ChaCha20-Poly1305 encryption
+- 4 execution modes: Temp File, Manual Mapping, APC, Early Bird
+- Anti-analysis modules (debugger detection, VM detection, environment checks)
+- Encrypted strings, obfuscated imports, polymorphic code
+- Watermarking and license binding
+- Compatible with PyInstaller, Nuitka, Electron, .NET, JVM, Go, Rust, C/C++
+- Includes DNA Dropper Builder FREE
+- Best seller
+
+### DOCTOR SQL — Lethal Edition — $15/wk, $30/mo, $70/3mo (https://drxlol.rf.gd/DOCTOR-SQL.html)
+SQL security testing suite for authorized penetration testing.
+- 8 modules: GET tester, POST detector, auto-extraction, vulnerability scanner,
+  dork search, crawler, WAF bypass tester, AI assistant
+- Hardware-locked license
+- All plans: full module access + Telegram support
+- 1-month & 3-month plans: priority response
+
+### DOCTOR RAT v3.0 — $40 (one-time lifetime) (https://drxlol.rf.gd/DOCTOR-RAT.html)
+Remote administration and monitoring tool for Windows 10/11 (x64).
+- 35+ modules for system administration
+- Persistence, input monitoring, clipboard monitoring, file manager
+- Screen / audio / webcam streaming
+- Remote desktop control (VNC) + hidden desktop mode (HVNC)
+- Clipboard monitoring and wallet data recovery
+- Browser data extraction (Chrome/Edge/Brave/Opera)
+- Discord and Telegram session data extraction
+- Privilege escalation, Windows Defender management
+- Data encryption testing module, process manager
+- License bound to ONE panel machine — unlimited agents from that panel
+- Best seller
+
+### DNA Dropper Builder — $10 (one-time, FREE with DNA Crypter Pro) (https://drxlol.rf.gd/DNA-DROPPER.html)
+Self-extracting script packager. Packages any EXE into .bat / .cmd / .vbs /
+.hta / .scr with base64 payload.
+- Zero dependencies (uses certutil, MSXML, ADODB.Stream — built into Windows)
+- Optional runtime cleanup (self-delete extracted file)
+- Drag-and-drop interface, SHA-256 + MD5 fingerprints
+- Tool runs on Windows 10/11 (64-bit), Python 3.10+, PyQt6
+- Output runs on Windows 7+
+
+### DOCTOR VNC — $20 (one-time, FREE for DOCTOR RAT subscribers) (https://drxlol.rf.gd/DOCTOR-VNC.html)
+Multi-agent remote desktop dashboard.
+- 4 tiled screens simultaneously (2×2 grid)
+- Self-building agents (host + port baked in)
+- 5 persistence methods (AppData, Startup, HKCU Run, HKLM Run, Scheduled Task)
+- Bidirectional file transfer (drag-and-drop)
+- Bidirectional clipboard sync
+- Full mouse + keyboard control
+- Works on Windows 7 SP1+ (x86_64), single static binary
+- 64 concurrent agents supported, 4 tiled in viewer
+- Transport: raw TCP; use VPN/proxy tunnel if encryption needed
+
+### Synapse Tool v2.0 — $20 (one-time, FREE for DOCTOR RAT subscribers) (https://drxlol.rf.gd/DOCTOR-VNC.html)
+Browser data extraction and analysis tool for authorized security testing.
+- Extracts passwords, cookies, payment data, tokens from Chromium browsers
+- Supports Chrome, Edge, Brave, Opera, Vivaldi, Chromium
+- Automated fileless pipeline (connect → run → extract → zip → upload → clean)
+- Multi-agent dashboard with live device radar and geolocation
+- Global search across all collected data
+- Auto-deploy on connect, MD5 deduplication
+- Windows 10 22H2 / Windows 11 23H2+ tested
+- Agent.py dropper — compile with PyInstaller / Nuitka
+- Supports ngrok, localxpose, bore tunnels
+
+### Email Marketing Private Group — $30 (one-time lifetime) (https://drxlol.rf.gd/Spamming.html)
+Private Telegram channel with email marketing methods and templates.
+- Methods & tutorials: campaign setup, email deliverability testing, SMTP
+  setup (SPF/DKIM/DMARC), inbox landing, filter bypass, domain warm-up
+- Email template library: Netflix, Spotify, Amazon, Microsoft 365, Bank of
+  America, Chase, PayPal, USPS themed
+- HTML obfuscator, multi SMTP checker, email sender, Telegram sender
+  (all bundled FREE)
+- 1-3 updates per week
+- Private member group included
+- 217 members, 63+ posts
+
+
+* Send the Website after replying with a specific product for full details *
+================================================================================
+ ## POLICIES
+================================================================================
+
+### Refund Policy
+ALL SALES FINAL. No refunds. Digital products are non-returnable.
+Ask questions before buying — @DR_X_LOL will clarify.
+
+### License Terms
+- Non-exclusive, non-transferable license for authorized use only
+- No resale, sublicense, or redistribution
+- No reverse engineering (unless explicitly permitted)
+- No removing watermarks or attribution
+- No sharing license keys
+
+### Authorized Use Only
+All products are dual-use security research and testing tools. Use ONLY for:
+- Security research on systems you own
+- Penetration testing with explicit written authorization
+- Educational demonstrations in isolated lab environments
+- Red-team engagements under valid contract
+
+### Prohibited Use
+Violating these rules = immediate license termination:
+- Accessing systems/networks you do not own or have written permission to test
+- Any activity that violates local, national, or international law
+- Reselling or leaking purchased tools
+- Stalking or harassing any individual
+
+### Privacy
+Store collects only Telegram handle + payment confirmation. Nothing sold or
+shared. Telegram is not end-to-end encrypted by default — use a secure alias
+if privacy is critical.
+
+================================================================================
+ ## COMMON QUESTIONS
+================================================================================
+
+Q: Which OS is supported?
+A: Windows 10/11 (64-bit) for all tools. Some also run on Windows 7 SP1+.
+
+Q: Are admin rights required?
+A: Not for basic use. Required for some advanced DOCTOR RAT features
+   (privilege escalation, Defender management, certain persistence methods).
+
+Q: Will antivirus flag the tools?
+A: Any dual-use security tool can trigger heuristic detection. Pair with
+   DNA Crypter Pro to reduce detections. No tool guarantees 100% undetectability.
+
+Q: Do I need programming knowledge?
+A: No. Most tools are GUI-based. Full documentation included. Basic Python/C
+   helps for advanced integrations.
+
+Q: Can I use commercially?
+A: Only for authorized security work (pentest contracts, red-team, protecting
+   your own software). Commercial resale is prohibited.
+
+Q: Lifetime updates?
+A: YES for all licensed tools — free forever. Message @DR_X_LOL for updates.
+
+Q: Custom builds?
+A: Yes. Range from ~$50 (small utility) to several hundred (full toolkit).
+   Describe what you want, get a quote + timeline.
+
+Q: Trial or live demo?
+A: Live demo available for serious buyers via Telegram @DR_X_LOL.
+
+Q: Multiple machines?
+A: DOCTOR RAT: one panel machine, unlimited agents from that panel.
+   DOCTOR VNC / Synapse Tool: per-user.
+
+Q: How do I buy?
+A: Message @DR_X_LOL on Telegram. Confirm tool + price. Send crypto to
+   @PAY_XLOL. Receive product + license on Telegram within minutes.
+
+Q: Refunds?
+A: No refunds. All sales final.
+
+Q: Is buying legal?
+A: Purchase and possession of dual-use security tools is legal in most
+   jurisdictions for educational/research purposes. Usage determines legality —
+   using them against systems you don't own or have permission to test is
+   illegal.
+
+Q: What if I misuse the tool?
+A: You are solely responsible. Store and developers accept zero liability.
+
+================================================================================
+ ## CONTACT
+================================================================================
+- Purchases & support: @DR_X_LOL
+- Payment address:     @PAY_XLOL
+- Community channel:   @DOCTOR_X_LOL
+- Deals channel:       @Deals_XLOL
+- YouTube demos:       @DR-X-LOL
+
+================================================================================
+ END OF KNOWLEDGE BASE
+================================================================================
